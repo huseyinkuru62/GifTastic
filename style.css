@@ -1,0 +1,23 @@
+body { 
+  min-height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-image: url("../GifTastic/giphy.gif");
+  background-repeat: round;
+  background-attachment: fixed;
+}
+img {
+    width: 300px
+}
+
+button,
+div,
+form,
+input {
+  margin: 10px;
+}
+
+h3, .rating {
+    font-size: 15px;
+}
